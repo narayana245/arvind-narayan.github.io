@@ -1,4 +1,3 @@
-/* ---------- Global Styles ---------- */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
 body {
@@ -10,7 +9,6 @@ body {
     line-height: 1.6;
 }
 
-/* ---------- Header ---------- */
 header {
     background-color: #CCFCC4; /* light green */
     color: #222;
@@ -40,7 +38,6 @@ nav a:hover {
     color: #005f99;
 }
 
-/* ---------- Sections ---------- */
 section {
     max-width: 850px;
     margin: 2rem auto;
@@ -50,7 +47,6 @@ section {
     box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
-/* ---------- Images ---------- */
 .profile-pic {
     display: block;
     margin: 20px auto;
@@ -58,7 +54,6 @@ section {
     border-radius: 20px;
 }
 
-/* ---------- Lists ---------- */
 ul {
     list-style: square inside;
     padding-left: 0;
@@ -69,7 +64,6 @@ li {
     margin-bottom: 0.5rem;
 }
 
-/* ---------- Footer ---------- */
 footer {
     text-align: center;
     background-color: #FECDCD; /* light pink */
@@ -87,7 +81,6 @@ footer a:hover {
     text-decoration: underline;
 }
 
-/* ---------- Contact Section ---------- */
 .contact a {
     color: #005f99;
     font-weight: 500;
@@ -98,7 +91,6 @@ footer a:hover {
     text-decoration: underline;
 }
 
-/* ---------- Custom Layout Adjustments ---------- */
 .intro, .interests {
     text-align: justify;
 }
